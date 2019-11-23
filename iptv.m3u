@@ -1,6 +1,6 @@
 #EXTM3U list-autor="SU74RUS"
 
-#EXTINF:-1 tvg-name="POBEDA" deinterlace=2 group-title="Информационный", ПОБЕДА
+#EXTINF:-1 tvg-name="POBEDA" deinterlace=2 group-title="Кино", ПОБЕДА
 http://37.192.57.53:81/udp/239.1.21.68:1234
 
 #EXTINF:-1 tvg-name="1TV" deinterlace=2 group-title="Информационный",ПЕРВЫЙ КАНАЛ HD
@@ -11,3 +11,6 @@ http://89.208.173.14:5050/udp/224.0.42.140:5000
 
 #EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Информационный",НТВ HD
 http://89.107.34.148:81/udp/239.195.6.21:1234
+
+#EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Развлекательный",,ТНТ4
+http://85.15.118.179:4022/udp/238.0.2.77:1234
