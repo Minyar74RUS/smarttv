@@ -12,5 +12,11 @@ http://89.208.173.14:5050/udp/224.0.42.140:5000
 #EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Информационный",НТВ HD
 http://89.107.34.148:81/udp/239.195.6.21:1234
 
-#EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Развлекательный",,ТНТ4
+#EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Развлекательный",ТНТ
+http://85.15.118.179:4022/udp/238.0.2.13:1234
+
+#EXTINF:-1 tvg-name="NTV4" deinterlace=2 group-title="Развлекательный",ТНТ4
 http://85.15.118.179:4022/udp/238.0.2.77:1234
+
+#EXTINF:-1 tvg-name="CTC" deinterlace=2 group-title="Развлекательный",CTC
+http://89.208.173.14:5050/udp/224.0.42.19:5000
