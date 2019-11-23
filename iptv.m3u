@@ -1,6 +1,6 @@
 #EXTM3U list-autor="SU74RUS"
 
-#EXTINF:-1 tvg-name="POBEDA" deinterlace=2 group-title="Кино", ПОБЕДА
+#EXTINF:-1 tvg-name="POBEDA" deinterlace=2 group-title="КИНО/СЕРИАЛЫ", ПОБЕДА
 http://37.192.57.53:81/udp/239.1.21.68:1234
 
 #EXTINF:-1 tvg-name="1TV" deinterlace=2 group-title="Информационный",ПЕРВЫЙ КАНАЛ HD
@@ -20,3 +20,6 @@ http://85.15.118.179:4022/udp/238.0.2.77:1234
 
 #EXTINF:-1 tvg-name="CTC" deinterlace=2 group-title="Развлекательный",CTC
 http://89.208.173.14:5050/udp/224.0.42.19:5000
+
+#EXTINF:-1 tvg-name="RUS_ROMAN_HD" deinterlace=2 group-title="КИНО/СЕРИАЛЫ",РУССКИЙ РОМАН HD
+http://5.59.200.247:81/udp/239.72.6.58:1234
