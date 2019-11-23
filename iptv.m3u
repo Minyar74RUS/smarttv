@@ -1,0 +1,13 @@
+#EXTM3U list-autor="SU74RUS"
+
+#EXTINF:-1 tvg-name="POBEDA" deinterlace=2 group-title="Информационный", ПОБЕДА
+http://37.192.57.53:81/udp/239.1.21.68:1234
+
+#EXTINF:-1 tvg-name="1TV" deinterlace=2 group-title="Информационный",ПЕРВЫЙ КАНАЛ HD
+http://37.194.232.42:81/udp/239.1.20.200:1234
+
+#EXTINF:-1 tvg-name="RTR_REG" deinterlace=2 group-title="Информационный",РОССИЯ 1 HD
+http://89.208.173.14:5050/udp/224.0.42.140:5000
+
+#EXTINF:-1 tvg-name="NTV" deinterlace=2 group-title="Информационный",НТВ HD
+http://89.107.34.148:81/udp/239.195.6.21:1234
